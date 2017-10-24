@@ -1,0 +1,20 @@
+{
+  "name": "dependencytest",
+  "description": "a dependency graph test",
+  "version": "1.0.0",
+  "main": Readme.md",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/TG9541/dependencytest.git"
+  },
+  "keywords": [ "test" ],
+  "author": "TG9541",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/TG9541/dependencytest/issues"
+  },
+  "dependencies": {
+    "winston": "git://github.com/TG9541/stm8ef#master"
+  },  
+  "homepage": "https://github.com/TG9541/dependencytest"
+}
