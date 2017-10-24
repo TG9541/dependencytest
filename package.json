@@ -2,7 +2,7 @@
   "name": "dependencytest",
   "description": "a dependency graph test",
   "version": "1.0.0",
-  "main": Readme.md",
+  "main": "Readme.md",
   "repository": {
     "type": "git",
     "url": "https://github.com/TG9541/dependencytest.git"
