@@ -14,7 +14,7 @@
     "url": "https://github.com/TG9541/dependencytest/issues"
   },
   "dependencies": {
-    "STM8eForth": "git://github.com/TG9541/stm8ef#master"
+    "STM8eForth": "TG9541/stm8ef"
   },  
   "homepage": "https://github.com/TG9541/dependencytest"
 }
